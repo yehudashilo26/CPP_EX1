@@ -1,5 +1,4 @@
-// by Yehuda Avraham 325550069
-
+// id: 325550069  mail: yehudav03@gmail.com
 #include "Graph.hpp"
 #include <math.h>
 #include <limits.h>
