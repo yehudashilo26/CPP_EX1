@@ -1,4 +1,4 @@
-<-- // by Yehuda Avraham 325550069 mail: yehudav03@gmail.com -->
+ //by Yehuda Avraham 325550069 mail: yehudav03@gmail.com
 
 # גרפים ואלגוריתמים
 
